@@ -1013,3 +1013,16 @@ section#partner a:hover{
 .sponsor-logo {
   margin: 10px 50px;
 }
+
+.container-table {
+    display: table;
+}
+.vertical-center-row {
+    display: table-cell;
+    vertical-align: middle;
+}
+table.speeches td{
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-bottom: 1px dashed #CC342D;
+}
